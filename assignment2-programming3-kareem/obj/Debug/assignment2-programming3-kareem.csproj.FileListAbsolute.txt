@@ -1,0 +1,30 @@
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\bin\Debug\assignment2-programming3-kareem.exe.config
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\bin\Debug\assignment2-programming3-kareem.exe
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\bin\Debug\assignment2-programming3-kareem.pdb
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\MainWindow.g.cs
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\App.g.cs
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem_MarkupCompile.cache
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem_MarkupCompile.lref
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\MainWindow.baml
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.g.resources
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2_programming3_kareem.Properties.Resources.resources
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.csproj.GenerateResource.Cache
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.exe
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.pdb
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.csprojAssemblyReference.cache
+C:\Users\Kareem\Desktop\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.csproj.CoreCompileInputs.cache
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\bin\Debug\assignment2-programming3-kareem.exe.config
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\bin\Debug\assignment2-programming3-kareem.exe
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\bin\Debug\assignment2-programming3-kareem.pdb
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.csprojAssemblyReference.cache
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\MainWindow.g.cs
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\App.g.cs
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem_MarkupCompile.cache
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem_MarkupCompile.lref
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\MainWindow.baml
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.g.resources
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2_programming3_kareem.Properties.Resources.resources
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.csproj.GenerateResource.cache
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.csproj.CoreCompileInputs.cache
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.exe
+C:\Users\Kareem\Desktop\All files\7th Summer Semester\Programming3\assignment2-programming3-kareem\assignment2-programming3-kareem\obj\Debug\assignment2-programming3-kareem.pdb
